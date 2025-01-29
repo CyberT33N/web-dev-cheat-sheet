@@ -7,6 +7,19 @@
 
 
 
+<br><br>
+___
+___
+<br><br>
+
+# Drag & Drop (DND)
+- https://github.com/sujjeee/nextjs-dnd
+
+
+
+
+
+
 
 <br><br>
 ___
@@ -33,7 +46,8 @@ ___
 # Editor
 - https://github.com/Seedsa/echo-editor
 - https://github.com/Aslam97/shadcn-minimal-tiptap
-
+- https://novel.sh/ **HOT**
+  - Notion-style WYSIWYG editor with AI-powered autocompletion.  
 
 
 
