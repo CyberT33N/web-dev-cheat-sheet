@@ -14,6 +14,7 @@ ___
 <br><br>
 
 # Calender
+- https://github.com/sersavan/shadcn-calendar-component
 
 ## Calls
 - https://github.com/damianricobelli/shadcn-cal-com
