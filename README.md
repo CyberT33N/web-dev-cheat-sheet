@@ -14,6 +14,9 @@ ___
 
 # Editor
 - https://github.com/Seedsa/echo-editor
+- https://github.com/Aslam97/shadcn-minimal-tiptap
+
+
 
 
 
