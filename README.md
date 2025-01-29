@@ -230,6 +230,11 @@ ___
 
 # Chat
 
+## Messenger
+- https://github.com/jakobhoeg/shadcn-chat
+
+
+
 <br><br>
 
 ## AI Chat
