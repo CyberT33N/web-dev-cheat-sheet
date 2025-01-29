@@ -46,10 +46,13 @@ ___
 # Editor
 - https://github.com/Seedsa/echo-editor
 - https://github.com/Aslam97/shadcn-minimal-tiptap
+  
 - https://novel.sh/ **HOT**
   - Notion-style WYSIWYG editor with AI-powered autocompletion.  
 
 
+- https://github.com/udecode/plate **HOT**
+  - A rich-text editor powered by AI 
 
 
 
