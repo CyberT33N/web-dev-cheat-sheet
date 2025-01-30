@@ -228,7 +228,7 @@ ___
 - https://shadcn-datetime-picker.vercel.app/
 - https://github.com/flixlix/shadcn-date-picker
 - https://github.com/openstatusHQ/time-picker **HOT**
-
+- https://tremor.so/docs/inputs/date-picker **HOT**
 
 
 
