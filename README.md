@@ -15,6 +15,7 @@ ___
 
 # Calender
 - https://github.com/sersavan/shadcn-calendar-component
+- https://tremor.so/docs/inputs/calendar
 
 ## Calls
 - https://github.com/damianricobelli/shadcn-cal-com
