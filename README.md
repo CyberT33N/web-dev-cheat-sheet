@@ -2,6 +2,34 @@
 
 
 
+# Optimizing
+
+## Images
+    Used WebP format instead of PNG and JPEG.
+    Compressed images using TinyPNG and ImageOptim.
+    Implemented lazy loading to load images only when needed.
+    Used CSS sprites for small icons to reduce HTTP requests.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<br><br>
+___
+___
+<br><br>
+
 
 # Form
 
