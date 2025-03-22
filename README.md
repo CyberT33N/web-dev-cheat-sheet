@@ -5,10 +5,19 @@
 # Optimizing
 
 ## Images
+
+
+## #1 AVIF
+- Be carefully with brpowser support and fallback
+
+
+## #2 WebP
+```
     Used WebP format instead of PNG and JPEG.
     Compressed images using TinyPNG and ImageOptim.
     Implemented lazy loading to load images only when needed.
     Used CSS sprites for small icons to reduce HTTP requests.
+```
 
 
 
