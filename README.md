@@ -31,6 +31,22 @@
 
 
 
+<br><br>
+___
+___
+<br><br>
+
+
+# Responsive
+
+## Testing
+- https://polypane.app/
+- browserstack
+
+
+
+
+
 
 
 
