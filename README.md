@@ -29,6 +29,25 @@
 
 
 
+<br><br>
+___
+___
+<br><br>
+
+
+# Templates
+
+## Next.js
+- https://nextjstemplates.com/templates
+  - https://nextjstemplates.com/templates/ai-tool **HOT** 
+
+
+
+
+
+
+
+
 
 
 <br><br>
