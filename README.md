@@ -28,6 +28,35 @@
 
 
 
+<br><br>
+___
+___
+<br><br>
+
+
+# Boilerplate
+
+## Next.js
+- https://create.t3.gg/
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 <br><br>
 ___
