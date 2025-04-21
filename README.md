@@ -38,6 +38,7 @@ ___
 
 ## Next.js
 - https://create.t3.gg/
+- https://github.com/Blazity/next-enterprise 
 
 
 
