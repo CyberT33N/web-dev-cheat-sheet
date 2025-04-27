@@ -26,6 +26,26 @@
 
 
 
+<br><br>
+___
+___
+<br><br>
+
+
+# Debug
+
+## Mobile
+-  https://github.com/liriliri/eruda
+
+
+
+
+
+
+
+
+
+
 
 
 <br><br>
