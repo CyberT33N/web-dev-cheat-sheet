@@ -1,6 +1,34 @@
 # web-dev-cheat-sheet
 
 
+# Databases
+- https://github.com/CyberT33N/web-dev-cheat-sheet/blob/main/README.md
+
+
+
+
+
+
+
+
+
+
+
+
+<br><br>
+<br><br>
+___
+<br><br>
+<br><br>
+
+
+
+
+<details><summary>Click to expand..</summary>
+</details>
+
+
+
 
 # Optimizing
 
