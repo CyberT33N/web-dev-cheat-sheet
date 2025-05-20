@@ -2,6 +2,38 @@
 
 
 
+
+# Hosting
+
+
+## coolify
+- https://coolify.io/
+ Self-hosting with superpowers.
+An open-source & self-hostable Heroku / Netlify / Vercel alternative. 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<br><br>
+<br><br>
+___
+<br><br>
+<br><br>
+
+
+
+
 # security
 -  arcjet
 
