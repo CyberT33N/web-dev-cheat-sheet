@@ -321,6 +321,10 @@ https://rjsf-team.github.io/react-jsonschema-form/docs/
 
 
 
+
+
+
+
 <br><br>
 ___
 ___
@@ -331,6 +335,15 @@ ___
 
 # Auth
 - https://clerk.com
+
+## Open Source
+- https://www.better-auth.com/
+
+
+
+
+
+
 
 
 
