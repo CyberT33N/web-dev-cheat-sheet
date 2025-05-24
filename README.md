@@ -358,6 +358,7 @@ ___
 
 # Auth
 - https://clerk.com
+- Auth0
 
 ## Open Source
 - https://www.better-auth.com/
