@@ -24,6 +24,29 @@ ___
 
 
 
+# Backend-as-a-Service (BaaS)
+
+## Supabase
+- https://supabase.com/auth
+
+### Firebase
+
+
+
+
+
+
+
+
+<br><br>
+<br><br>
+___
+<br><br>
+<br><br>
+
+
+
+
 
 # Hosting
 
