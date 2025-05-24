@@ -321,6 +321,29 @@ https://rjsf-team.github.io/react-jsonschema-form/docs/
 
 
 
+<br><br>
+___
+___
+<br><br>
+
+
+
+# CI/CD
+
+## Clean Code
+
+### sonarcloud
+- https://www.sonarsource.com/de/products/sonarcloud/
+
+
+
+
+
+
+
+
+
+
 
 
 
@@ -338,7 +361,7 @@ ___
 
 ## Open Source
 - https://www.better-auth.com/
-
+- Logto
 
 
 
