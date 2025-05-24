@@ -241,12 +241,34 @@ ___
 
 # Boilerplate
 
+## React.js
+
+### Realtime chat
+- https://github.com/shwosner/realtime-chat-supabase-react
+
+<br><br>
+
+## Nest.js
+- https://github.com/hiro1107/nestjs-supabase-auth
+
+<br><br>
+
 ## Next.js
 - https://create.t3.gg/
 - https://github.com/Blazity/next-enterprise 
 - appwrite.io
 
+### AI Chat Bot
+- https://github.com/supabase-community/vercel-ai-chatbot
 
+### Realtime chat
+- https://github.com/supabase/supabase/tree/master/examples/slack-clone/nextjs-slack-clone
+
+### Langchain
+- https://github.com/langchain-ai/langchain-nextjs-template
+
+### Subscription and auth
+- https://github.com/vercel/nextjs-subscription-payments
 
 
 
