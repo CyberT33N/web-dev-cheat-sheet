@@ -404,6 +404,7 @@ ___
 # Auth
 - https://clerk.com
 - Auth0
+- https://workos.com/
 
 ## Open Source
 - https://www.better-auth.com/
