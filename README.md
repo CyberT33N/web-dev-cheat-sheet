@@ -11,6 +11,28 @@
 
 
 
+<br><br>
+<br><br>
+___
+<br><br>
+<br><br>
+
+
+
+# Admin Panel
+
+
+
+## 1Panel
+- https://github.com/1Panel-dev/1Panel?tab=readme-ov-file
+
+
+
+
+
+
+
+
 
 
 
