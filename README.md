@@ -193,10 +193,7 @@ ___
 <br><br>
 
 # Databases
-- https://github.com/CyberT33N/web-dev-cheat-sheet/blob/main/README.md
-
-
-
+- https://github.com/CyberT33N/databases-cheat-sheet/blob/main/README.md
 
 
 
