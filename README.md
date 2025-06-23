@@ -17,6 +17,36 @@
 
 
 
+
+<br><br>
+<br><br>
+___
+<br><br>
+<br><br>
+
+
+
+
+# translate
+
+## Lingo
+https://lingo.dev/en
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
 <br><br>
 <br><br>
 ___
