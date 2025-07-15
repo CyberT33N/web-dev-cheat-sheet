@@ -399,6 +399,21 @@ ___
 
 
 
+<br><br>
+___
+___
+<br><br>
+
+
+
+
+
+# monitor
+- https://sentry.io/welcome/
+
+- https://www.datadoghq.com/
+
+
 
 
 
@@ -415,6 +430,7 @@ ___
 ___
 ___
 <br><br>
+
 
 
 # analyze/monitor
@@ -422,7 +438,6 @@ ___
 - https://posthog.com/
 
 
-- https://www.datadoghq.com/
 
 
 
