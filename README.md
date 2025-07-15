@@ -417,10 +417,12 @@ ___
 <br><br>
 
 
-# analyze
+# analyze/monitor
 
 - https://posthog.com/
 
+
+- https://www.datadoghq.com/
 
 
 
