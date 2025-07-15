@@ -11,6 +11,28 @@
 
 
 
+<br><br>
+<br><br>
+___
+<br><br>
+<br><br>
+
+
+
+# Deploy
+
+## Vercel **hot**
+
+
+
+
+
+
+
+
+
+
+
 
 
 
