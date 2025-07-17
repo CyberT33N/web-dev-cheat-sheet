@@ -9,6 +9,53 @@
 
 
 
+<br><br>
+<br><br>
+___
+<br><br>
+<br><br>
+
+
+# API Clients
+
+
+| #  | Name                    | Typ / Fokus                 | Besondere Features                                              | Plattform / Tech      |
+| -- | ----------------------- | --------------------------- | --------------------------------------------------------------- | --------------------- |
+| 1  | **Apidog**              | All-in-One API Suite        | Design, Test, Mock, Doku. Granulare Zugriffsrechte, Team-Arbeit | Web, Desktop          |
+| 2  | **Firecamp**            | Echtzeit-Kollaboration      | REST, GraphQL, WebSocket, gRPC – inspiriert von VS Code         | Browser               |
+| 3  | **Prestige**            | Markdown-basierter Client   | Plaintext-HTTP, Offline, Open-Source                            | Browser               |
+| 4  | **gRPC UI**             | Visual Client für gRPC      | .proto-Autoload, Echtzeit-Tests                                 | Web                   |
+| 5  | **Restfox**             | Datenschutz, Minimalismus   | Offline-First, kein Cloud-Zwang, sehr schnell                   | Browser               |
+| 6  | **Yaade**               | Selbstgehostet, sicher      | Verschlüsselte Speicherung, Multi-User Auth                     | Web (Self-Hosted)     |
+| 7  | **Requestly**           | API Debugging im Browser    | Mocking, Umleitung, Browser-Extension + Web                     | Extension, Web        |
+| 8  | **Hoppscotch**          | Leichtgewichtig, schnell    | REST, GraphQL, MQTT, WebSocket, open-source                     | Browser               |
+| 9  | **Bruno**               | Dateibasiert, offlinefähig  | YAML/JSON-basierte Requests, Git-kompatibel                     | Desktop, CLI          |
+| 10 | **Yaak**                | Native REST-Client          | Einfach, tab-basiert                                            | Desktop (Native)      |
+| 11 | **API Dash**            | Klassischer GUI-Client      | REST, History, Environments                                     | Windows, macOS, Linux |
+| 12 | **ezy**                 | GUI für gRPC/gRPC-Web       | Fokus auf Protobuf                                              | GUI-App               |
+| 13 | **BloomRPC**            | GUI für gRPC (Legacy)       | Proto-Handling, Echtzeit-Anfragen                               | Desktop               |
+| 14 | **Milkman**             | Pluginfähiges API-Workbench | REST, GraphQL, SOAP + Plugins                                   | Desktop (Java)        |
+| 15 | **Insomnium**           | Fork von Insomnia           | Komplett lokal, keine Cloud                                     | Desktop               |
+| 16 | **Cartero**             | Minimal HTTP Client         | Schnell, für wiederholte API-Tests                              | Cross-Platform        |
+| 17 | **Nightingale**         | Windows REST Client         | Modern UI, Mock-Server, leichtgewichtig                         | Windows               |
+| 18 | **VS Code REST Client** | Extension                   | HTTP direkt in `.rest`/`.http` Files                            | VS Code               |
+| 19 | **Pororoca**            | Netzwerk-Debugging Tool     | HTTP/1.1, HTTP/2, HTTP/3, Deep Packet Inspection                | Desktop               |
+| 20 | **ATAC**                | Terminal UI Client (TUI)    | Formular-Eingabe, History, strukturiert                         | CLI (Cross-Platform)  |
+
+---
+
+### 🧪 Bonus: CLI & Testing Tools
+
+| Kategorie               | Tools                                                                                         |
+| ----------------------- | --------------------------------------------------------------------------------------------- |
+| Klassische CLI Clients  | `curl`, `HTTPie`, `xh`, `curlie`, `grpcurl`, `httpYac`, `ATAC`, `evans`                       |
+| Automatisierte Tests    | `Hurl`, `Karate`, `Tavern`, `Venom`, `pyresttest`, `runn`, `scenarigo`, `Dredd`, `HttpRunner` |
+| Lasttests & Performance | `k6`, `Artillery`                                                                             |
+
+
+
+
+
 
 
 <br><br>
