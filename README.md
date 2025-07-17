@@ -21,6 +21,7 @@ ___
 
 | #  | Name                    | Typ / Fokus                 | Besondere Features                                              | Plattform / Tech      |
 | -- | ----------------------- | --------------------------- | --------------------------------------------------------------- | --------------------- |
+| 0.  | **Postman**              | All-in-One API Suite        | Design, Test, Mock, Doku. Granulare Zugriffsrechte, Team-Arbeit | Web, Desktop          |
 | 1  | **Apidog**              | All-in-One API Suite        | Design, Test, Mock, Doku. Granulare Zugriffsrechte, Team-Arbeit | Web, Desktop          |
 | 2  | **Firecamp**            | Echtzeit-Kollaboration      | REST, GraphQL, WebSocket, gRPC – inspiriert von VS Code         | Browser               |
 | 3  | **Prestige**            | Markdown-basierter Client   | Plaintext-HTTP, Offline, Open-Source                            | Browser               |
