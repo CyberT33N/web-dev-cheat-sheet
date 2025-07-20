@@ -14,6 +14,23 @@
 
 
 
+<br><br>
+<br><br>
+___
+<br><br>
+<br><br>
+
+
+
+# Linting
+
+## Typescript
+- tslint
+- https://biomejs.dev/blog/biome-v2/
+
+
+
+
 
 
 
