@@ -818,6 +818,10 @@ ___
 
 # Utils
 
+
+## all-in-one platforms
+- https://github.com/iib0011/omni-tools?utm_source=tldrwebdev
+
 ## Link Shortener
 - https://github.com/mehrabmp/cut-it
 
