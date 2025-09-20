@@ -844,6 +844,72 @@ ___
 
 
 
+## Files
+
+### Parsing
+
+
+<details><summary>Click to expand..</summary>
+
+# docling-project
+- https://github.com/docling-project/docling?utm_source=tldrdata
+
+
+<details><summary>Click to expand..</summary>
+
+Das „**docling**“-Projekt ist kein simples „PDF-zu-Text“-Tool, sondern ein **kompletter Dokument-Parser** für die Gen-AI-Welt.
+Kurz gesagt: Es **extrahiert, versteht und strukturiert Inhalte** aus vielen Dokumentformaten, nicht nur PDF.
+
+👉 Was es macht:
+
+* **Dokumentformate einlesen**: PDF, DOCX, PPTX, XLSX, HTML, Bilder (PNG, TIFF, JPEG), Audio (MP3, WAV) u. a.
+* **Inhalt verstehen**: erkennt Layout, Lesereihenfolge, Tabellen, Formeln, Codeblöcke, Bilder.
+* **OCR**: holt Text aus gescannten PDFs oder Bildern.
+* **Strukturierte Ausgabe**: exportiert nach Markdown, HTML, JSON oder einem eigenen **DoclingDocument-Format** (verluste-frei).
+* **AI-Integration**: kann direkt mit LangChain, LlamaIndex, Haystack etc. verbunden werden, um Dokumente in AI-Workflows zu füttern.
+* **Lokal nutzbar**: auch offline, z. B. für sensible Daten.
+* **CLI & Python API**: du kannst es entweder direkt im Terminal nutzen (`docling file.pdf`) oder in Python einbauen.
+
+👉 Beispiel mit Python:
+
+```python
+from docling.document_converter import DocumentConverter
+
+source = "https://arxiv.org/pdf/2408.09869"
+converter = DocumentConverter()
+result = converter.convert(source)
+
+print(result.document.export_to_markdown())
+```
+
+Das gibt dir dann z. B. Markdown-Output mit der strukturierten Version des Papers.
+
+👉 Wofür du es **MUSS** benutzen kannst:
+
+* Wenn du **Texte, Tabellen, Formeln oder Strukturen aus PDFs/DOCs** sauber extrahieren willst.
+* Wenn du Dokumente für **KI-Modelle aufbereiten** willst.
+* Wenn du aus chaotischen Dokumenten **strukturierte Daten** (JSON, Markdown, HTML) brauchst.
+
+Also: **Ja, es extrahiert Text**, aber nicht nur roh, sondern mit **Layout, Struktur und semantischem Verständnis**. Ein „Super-PDF-Parser“, der gleich AI-ready Output liefert.
+
+ 
+</details>
+
+
+ 
+</details>
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
