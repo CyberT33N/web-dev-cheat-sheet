@@ -6,6 +6,13 @@
 
 
 
+# audio
+
+## visuals
+https://github.com/katspaugh/wavesurfer.js?utm_source=tldrwebdev
+
+
+
 
 <br><br>
 <br><br>
