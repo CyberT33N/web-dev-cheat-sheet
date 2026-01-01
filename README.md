@@ -1,6 +1,20 @@
 # web-dev-cheat-sheet
 
 
+# Typesafe APIs 
+
+- https://github.com/unnoq/orpc?utm_source=tldrwebdev
+
+- https://trpc.io/
+- https://ts-rest.com/
+
+
+<br><br>
+<br><br>
+___
+<br><br>
+<br><br>
+
 
 Web Application Firewall (WAF) 
 - https://github.com/bunkerity/bunkerweb?tab=readme-ov-file
