@@ -21,6 +21,26 @@ Web Application Firewall (WAF)
 
 
 
+<br><br>
+<br><br>
+___
+<br><br>
+<br><br>
+
+
+
+
+# cookies
+
+## supercookie
+- https://github.com/jonasstrehle/supercookie?utm_source=tldrwebdev
+
+
+
+
+
+
+
 
 <br><br>
 <br><br>
